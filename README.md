@@ -6,7 +6,7 @@ description: >-
 # WELCOME TO MINEHUT.XYZ!
 
 {% hint style="info" %}
-Please take advantage of our search function on the top righthand corner of your screen. It is so helpful to find your questions in a sea of answers. 
+Please take advantage of our search function on the top righthand corner of your screen. It is very helpful to find your questions in a sea of answers. 
 {% endhint %}
 
 ## OUR AIM
